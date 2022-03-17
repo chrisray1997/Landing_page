@@ -32,7 +32,7 @@ ul {
 
 .navbar {
     background: #3474e6;
-    color: #fff;
+    color: #e5e7eb;
     height: 60px;
 }
 
@@ -42,7 +42,7 @@ ul {
 }
 
 .navbar a {
-    color: #fff;
+    color: #e5e7eb;
     text-decoration: none;
     font-size: 18px;
     font-weight: bold;
@@ -68,8 +68,8 @@ ul {
 }
 
 .header {
-    background-color: #0a51cc;
-    color: #fff;
+    background-color: #1f2937;
+    color: #f9faf8;
     min-height: 400px;
 }
 
@@ -106,6 +106,17 @@ ul {
 
 .box i {
     margin-right: 10px;
+}
+
+.sticky {
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+    color: #fff;
+}
+
+.footer {
+    margin-top: 198px;
 }
 
 @media (max-width: 768px) {
