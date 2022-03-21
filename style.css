@@ -111,8 +111,9 @@ ul {
 .footer {
     display: flex;
     justify-content: center;
-    padding: 1px;
-    background: #eee;
+    padding: 40px;
+    background: #1e2530;
+    color: #fff;
 }
 
 @media (max-width: 768px) {
